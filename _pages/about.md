@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Ruoyu Wang, a postdoc in the [Department of Biostatistics at Harvard University](https://hsph.harvard.edu/profile/ruoyu-wang/) working with [Prof Xihong Lin](https://hsph.harvard.edu/profile/ruoyu-wang/). My research focuses on methodology development for data integration problems with biased/heterogeneous data sources and causal inference with unmeasured confounders.
+I'm Ruoyu Wang, a postdoc in the [Department of Biostatistics at Harvard University](https://hsph.harvard.edu/profile/ruoyu-wang/) working with [Prof Xihong Lin](https://hsph.harvard.edu/profile/xihong-lin/). My research focuses on methodology development for data integration problems with biased/heterogeneous data sources and causal inference with unmeasured confounders.
 
 Currently, I'm on the job market. I am open to beginning my next adventure anywhere in the world. Please don't hesitate to contact me ([email](mailto:ruoyuwang@hsph.harvard.edu)) if you are interested in my research or would like to share any comments/ideas! 
 
