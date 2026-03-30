@@ -14,7 +14,7 @@ Publications
 **Peer-Reviewed Publications**
 1. **Wang, R.**, Wang Q.<sup>*</sup>, and Miao, W. (2023), A robust fusion-extraction procedure with summary statistics in the presence of biased sources. _Biometrika_, 110, 1023--1040.
 2. **Wang, R.**, Su, M., and Wang, Q.<sup>*</sup> (2023), Distributed nonparametric imputation for missing response problems with massive data. _Journal of Machine Learning Research_, 68, 1--52.
-3. Hu, W.<sup>1</sup>, **Wang, R.<sup>1</sup>**, Li, W.<sup>*</sup>, and Miao, W.<sup>*</sup> (2026), Semiparametric efficient fusion of individual data and summary statistics. _Journal of the American Statistical Association: T&M_, in press. arXiv:2210.00200.
+3. Hu, W.<sup>1</sup>, **Wang, R.<sup>1</sup>**, Li, W.<sup>*</sup>, and Miao, W.<sup>*</sup> (2026), Semiparametric efficient fusion of individual data and summary statistics. _Journal of the American Statistical Association: T&M_, in press.
 4. **Wang, R.**, and Wang, Q.<sup>*</sup> (2021), Determination and estimation of optimal quarantine duration for infectious diseases with application to data analysis of COVID-19. _Biometrics_, 78, 691--700.
 5. **Wang, R.**, Wang, Q.<sup>*</sup>, Miao, W., and Zhou, X. (2024), Sharp bounds for variance of treatment effect estimators in the finite population in the presence of covariates. _Statistica Sinica_, 34, 999--1021.
 6. Su, M. and **Wang, R.<sup>*</sup>** (2026+), Subsampled one-step estimation for fast statistical inference. _Scandinavian Journal of Statistics_, 52, 2187--2208.
