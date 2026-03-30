@@ -46,7 +46,7 @@ Department of Statistics, Rutgers University. March 2025.
   
 Service
 ======
-* Reviewer for *Journal of the American Statistical Association: T&M*, *Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*; *Biometrics*; *Journal of Computational and Graphical Statistics*; *Statistics in Medicine*,  *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*.
+* Reviewer for *Biometrika*, *Journal of Machine Learning Research*, *Journal of the American Statistical Association: T&M*, *Journal of the American Statistical Association: ACS*, *Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*; *Biometrics*; *Journal of Computational and Graphical Statistics*; *Statistics in Medicine*,  *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*.
 * Session Chair for Joint Statistical Meeting, Portland, OR, 2024.
 
 Curriculum Vitae 
