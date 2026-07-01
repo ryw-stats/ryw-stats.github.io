@@ -12,7 +12,7 @@ I'm Ruoyu Wang, a postdoc in the [Department of Biostatistics at Harvard Univers
 
 **I will join the Department of Statistics and Data Science at Tsinghua University as a tenure-track Assistant Professor beginning in Fall 2026.**
 
-**I am recruiting Ph.D. students with interests in data integration, transfer learning, causal inference, and the intersection of AI and precision medicine. Please feel free to contact me by email if you are interested.**
+**I am recruiting Ph.D. students with interests in data integration, transfer learning, causal inference, and the intersection of AI and precision medicine. Please feel free to contact me ([email](mailto:ruoyuwang@hsph.harvard.edu)) if you are interested.**
 
 Research Interests
 ======
