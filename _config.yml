@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ruoyu Wang"
 title_separator          : "-"
 name                     : &name "Ruoyu Wang"
-description              : &description "Postdoc in Department of Biostatistics, Harvard University"
+description              : &description "Assistant Professor in Department of Statistics and Data Science, Tsinghua University"
 url                      : https://ryw-stats.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ryw-stats.github.io"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Ruoyu Wang"
-  avatar           : "Ruoyu_Portland.jpg"
-  bio              : "Postdoc in Biostatistics"
-  location         : "Boston, MA"
-  employer         : #"Harvard University"
+  avatar           : "Ruoyu_Portland-Turbo.jpg"
+  bio              : "Assistant Professor in Statistics"
+  location         : "Beijing China"
+  employer         : #"Tsinghua University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=1mO8fMgAAAAJ"
-  email            : "ruoyuwang@hsph.harvard.edu"
+  email            : "ruoyuwang@mail.tsinghua.edu.cn"
   researchgate     :  "https://www.researchgate.net/profile/Ruoyu-Wang-38"# example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
