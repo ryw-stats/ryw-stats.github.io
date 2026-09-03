@@ -10,7 +10,7 @@ redirect_from:
 
 I'm Ruoyu Wang, a tenure-track assistant professor in [Department of Statistics and Data Science at Tsinghua University](https://www.stat.tsinghua.edu.cn/en/). Before joining Tsinghua, I was a postdoc in the [Department of Biostatistics at Harvard University](https://hsph.harvard.edu/profile/ruoyu-wang/) working with [Prof Xihong Lin](https://hsph.harvard.edu/profile/xihong-lin/). My research focuses on methodology development for data integration problems with biased/heterogeneous data sources and causal inference with unmeasured confounders.
 
-**I am recruiting Ph.D. students with interests in data integration, transfer learning, causal inference, and the intersection of AI and precision medicine. Please feel free to contact me ([ruoyuwang@hsph.harvard.edu](mailto:ruoyuwang@hsph.harvard.edu)) if you are interested.**
+**I am recruiting Ph.D. students with interests in data integration, transfer learning, causal inference, and the intersection of AI and precision medicine. Please feel free to contact me ([ruoyuwang@mail.tsinghua.edu.cn](mailto:ruoyuwang@mail.tsinghua.edu.cn)) if you are interested.**
 
 Research Interests
 ======
