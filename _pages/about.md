@@ -18,7 +18,8 @@ Data Fusion, Causal Inference, Domain Generalization, Missing Data, Sampling Des
 
 Work Experience
 ========
-* Postdoctoral Fellow in the Department of Biostatistics, Harvard University, Sept 2022 ~ present
+* Assistant Professor in the Department of Statistics and Data Science, Tsinghua University, Sept 2026 ~ present
+* Postdoctoral Fellow in the Department of Biostatistics, Harvard University, Sept 2022 ~ Aug 2026
 
 Education
 ======
