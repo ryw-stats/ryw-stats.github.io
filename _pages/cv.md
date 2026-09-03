@@ -18,7 +18,7 @@ Publications
 4. **Wang, R.**, and Wang, Q.<sup>*</sup> (2021), Determination and estimation of optimal quarantine duration for infectious diseases with application to data analysis of COVID-19. _Biometrics_, 78, 691--700.
 5. **Wang, R.**, Wang, Q.<sup>*</sup>, Miao, W., and Zhou, X. (2024), Sharp bounds for variance of treatment effect estimators in the finite population in the presence of covariates. _Statistica Sinica_, 34, 999--1021.
 6. Su, M. and **Wang, R.<sup>*</sup>** (2026), Subsampled one-step estimation for fast statistical inference. _Scandinavian Journal of Statistics_, 52, 2187--2208.
-7. Su, M. and **Wang, R.<sup>*</sup>** (2026), Moment-assisted subsampling method for Cox proportional hazards model with large-scale data. _Journal of Computational and Graphical Statistics_, in press. arXiv:2501.06924.
+7. Su, M. and **Wang, R.<sup>*</sup>** (2026+), Moment-assisted subsampling method for Cox proportional hazards model with large-scale data. _Journal of Computational and Graphical Statistics_, in press. arXiv:2501.06924.
 8. **Wang, R.**, Wang Q.<sup>*</sup>, and Miao, W. (2026+), A maximin optimal approach for sampling designs in two-phase studies. _Statistica Sinica_, in press. arXiv:2312.10596.   
 9. **Wang, R.<sup>1</sup>**, Yi, M.<sup>1</sup>, Chen, Z., and Zhu, S. (2022), Out-of-distribution generalization with causal invariant transformations. _IEEE Conference on Computer Vision and Pattern Recognition_, 375--385.
 10. Yi, M.<sup>1</sup>, **Wang, R.<sup>1</sup>**, and Ma, Z. (2022), Characterization of excess risk for locally strongly convex population risk. _Advances in Neural Information Processing Systems 36_.
