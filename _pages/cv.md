@@ -57,7 +57,7 @@ Oral Presentation
 10. Divide-and-shrink: An efficient and heterogeneity-agnostic approach for transfer estimation using summary statistics. **Invited talk**, 1st Diabetes StatClin Meeting, April 2025.
 11. A maximin optimal approach for sampling designs in two-phase studies. **Topic-contributed paper session**, 2025 Joint Statistical Meetings (JSM), August 2025.
 12. Causal effect identification and inference with endogenous exposures and a light-tailed error. **Invited talk**, 8th International Conference on Econometrics and Statistics, August 2025.
-13. 1. Denoising data with measurement error using a reproducing kernel-based diffusion model. **Invited talk**, International Joint Conference CFE-CMStatistics, December 2025.
+13. Denoising data with measurement error using a reproducing kernel-based diffusion model. **Invited talk**, International Joint Conference CFE-CMStatistics, December 2025.
 
 
 
