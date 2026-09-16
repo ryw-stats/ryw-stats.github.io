@@ -14,7 +14,7 @@ I'm Ruoyu Wang, a tenure-track assistant professor in [Department of Statistics 
 
 Research Interests
 ======
-Data Fusion, Causal Inference, Domain Generalization, Missing Data, Sampling Design, Large-scale Data Analysis
+Data Fusion, Causal Inference, Synthetic Data Analysis, Large-scale Data Analysis, Sampling Design
 
 Work Experience
 ========
