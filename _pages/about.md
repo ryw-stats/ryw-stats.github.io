@@ -34,7 +34,7 @@ Representative Papers
 4. **Wang, R.<sup>1</sup>**, Yi, M.<sup>1</sup>, Chen, Z., and Zhu, S. (2022), Out-of-distribution generalization with causal invariant transformations. _IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 375--385.
 5. **Wang, R.**, Zhang, H., and Lin X.<sup>*</sup> (2026+), Debiased estimating equation method for versatile and efficient Mendelian randomization using a large number of correlated weak and invalid instruments. Revision invited by _Journal of the American Statistical Association: T&M (JASA T&M)_. arXiv:2408.05386.
 6. **Wang, R.** and Lin X.<sup>*</sup> (2026+), Divide-and-shrink: An efficient and heterogeneity-agnostic approach for transfer estimation using summary statistics. Revision invited by _Journal of the Royal Statistical Society: Series B_.
-7. Su, M. and **Wang, R.<sup>*</sup>** (2026+), A moment-assisted approach for improving subsampling-based MLE with large-scale data. Revision invited by _Journal of Machine Learning Research_. arXiv:2309.09872.
+7. Su, M., Wang Q., and **Wang, R.<sup>*</sup>** (2026+), A moment-assisted approach for improving subsampling-based MLE with large-scale data. Revision invited by _Journal of Machine Learning Research_. arXiv:2309.09872.
 8. Yang, H.<sup>1</sup>, **Wang, R.<sup>1</sup>**, Lin, Y., and Lin, X.<sup>*</sup> (2026+), Tail likelihood ratio method for large-scale causal mediation testing in epigenome-wide studies. Revision invited by _Journal of the American Statistical Association: ACS (JASA ACS)_.
 9. **Wang, R.** and Miao, W.<sup>*</sup> (2026+), Causal Effect Identification and Inference with Endogenous Exposures and a Light-tailed Error. Under review. arXiv:2408.06211.
 
