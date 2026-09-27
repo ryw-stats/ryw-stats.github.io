@@ -31,7 +31,7 @@ Publications
 **Papers under Invited Revision**
  1.	**Wang, R.**, Zhang, H., and Lin X.<sup>*</sup> (2026+), Debiased estimating equation method for versatile and efficient Mendelian randomization using a large number of correlated weak and invalid instruments. Revision invited by _Journal of the American Statistical Association: T&M_. arXiv:2408.05386.
  2. **Wang, R.** and Lin X.<sup>*</sup> (2026+), Divide-and-shrink: An efficient and heterogeneity-agnostic approach for transfer estimation using summary statistics. Revision invited by _Journal of the Royal Statistical Society: Series B_.
- 3. Su, M. and **Wang, R.<sup>*</sup>** (2026+), A moment-assisted approach for improving subsampling-based MLE with large-scale data. Revision invited by _Journal of Machine Learning Research_. arXiv:2309.09872.
+ 3. Su, M., Wang Q., and **Wang, R.<sup>*</sup>** (2026+), A moment-assisted approach for improving subsampling-based MLE with large-scale data. Revision invited by _Journal of Machine Learning Research_. arXiv:2309.09872.
  4. Yang, H.<sup>1</sup>, **Wang, R.<sup>1</sup>**, Lin, Y., and Lin, X.<sup>*</sup> (2026+), Tail likelihood ratio method for large-scale causal mediation testing in epigenome-wide studies. Revision invited by _Journal of the American Statistical Association: ACS_.
 
 **Preprints and Papers under Review**
