@@ -33,12 +33,12 @@ Publications
 **Papers under Invited Revision**
  1. **Wang, R.** and Lin X.<sup>*</sup> (2026+), Divide-and-shrink: An efficient and heterogeneity-agnostic approach for transfer estimation using summary statistics. Revision invited by _Journal of the Royal Statistical Society: Series B_.
  2. Su, M., Wang Q., and **Wang, R.<sup>*</sup>** (2026+), A moment-assisted approach for improving subsampling-based MLE with large-scale data. Revision invited by _Journal of Machine Learning Research_. arXiv:2309.09872.
+ 3. Zhang, P., **Wang, R.**, and Miao, W.<sup>*</sup> (2026+), Causal attribution with confidence. Revision invited by _Biometrics_. arXiv:2504.08294.
 
 **Preprints and Papers under Review**
 1. **Wang, R.** and Miao, W.<sup>*</sup> (2026+), Causal Effect Identification and Inference with Endogenous Exposures and a Light-tailed Error. Under review. arXiv:2408.06211.
 2. Yi, M., Matabuena, M., **Wang, R.<sup>*</sup>** (2026+), Denoising data with measurement error using a reproducing kernel-based diffusion model. arXiv:2501.00212.
-3. Zhang, P., **Wang, R.**, and Miao, W.<sup>*</sup> (2026+), Causal attribution with confidence. Under review. arXiv:2504.08294.
-4. Zhang, Y., Onnela, JP., Sun, S.<sup>*</sup>, and **Wang, R.**<sup>*</sup> (2026+), Identification and Estimation of Heterogeneous Interference Effects under Unknown Network. arXiv 2510.10508.
+3. Zhang, Y., Onnela, JP., Sun, S.<sup>*</sup>, and **Wang, R.**<sup>*</sup> (2026+), Identification and Estimation of Heterogeneous Interference Effects under Unknown Network. arXiv 2510.10508.
 
 
 <sup>1</sup> : equal contribution; <sup>*</sup> : corresponding author
