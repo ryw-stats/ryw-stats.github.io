@@ -29,7 +29,7 @@ Education
 Representative Papers
 ======
 1. **Wang, R.**, Zhang, H., and Lin, X.<sup>*</sup> (2026+), Debiased estimating equation method for versatile and efficient Mendelian randomization using a large number of correlated weak and invalid instruments. _Journal of the American Statistical Association: T&M (JASA T&M)_, in press. arXiv:2408.05386.
-2. Su, M.<sup>1</sup>, Wang Q.<sup>1</sup>, and **Wang, R.<sup>*</sup>** (2026+), A moment-assisted approach for improving subsampling-based MLE with large-scale data. _Journal of Machine Learning Research_, in press. arXiv:2309.09872.
+2. Su, M.<sup>1</sup>, Wang Q.<sup>1</sup>, and **Wang, R.<sup>*</sup>** (2026+), A moment-assisted approach for improving subsampling-based MLE with large-scale data. _Journal of Machine Learning Research (JMLR)_, in press. arXiv:2309.09872.
 3. **Wang, R.**, Wang, Q.<sup>*</sup>, and Miao, W. (2023), A robust fusion-extraction procedure with summary statistics in the presence of biased sources. _Biometrika_, 110, 1023--1040.
 4. **Wang, R.**, Su, M., and Wang, Q.<sup>*</sup> (2023), Distributed nonparametric imputation for missing response problems with massive data. _Journal of Machine Learning Research (JMLR)_, 68, 1--52.
 5. Hu, W.<sup>1</sup>, **Wang, R.<sup>1</sup>**, Li, W.<sup>*</sup>, and Miao, W.<sup>*</sup> (2026+), Semiparametric efficient fusion of individual data and summary statistics. _Journal of the American Statistical Association: T&M (JASA T&M)_ , in press.
