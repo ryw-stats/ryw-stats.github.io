@@ -17,7 +17,7 @@ Publications
 3. **Wang, R.**, Wang, Q.<sup>*</sup>, and Miao, W. (2023), A robust fusion-extraction procedure with summary statistics in the presence of biased sources. _Biometrika_, 110, 1023--1040.
 4. **Wang, R.**, Su, M., and Wang, Q.<sup>*</sup> (2023), Distributed nonparametric imputation for missing response problems with massive data. _Journal of Machine Learning Research_, 68, 1--52.
 5. Hu, W.<sup>1</sup>, **Wang, R.<sup>1</sup>**, Li, W.<sup>*</sup>, and Miao, W.<sup>*</sup> (2026), Semiparametric efficient fusion of individual data and summary statistics. _Journal of the American Statistical Association: T&M_, in press.
-6. Yang, H.<sup>1</sup>, **Wang, R.<sup>1</sup>**, Lin, Y., and Lin, X.<sup>*</sup> (2026+), A tail likelihood ratio method for large-scale causal mediation test in epigenome-wide studies. _Journal of the American Statistical Association: ACS (JASA ACS)_, in press.
+6. Yang, H.<sup>1</sup>, **Wang, R.<sup>1</sup>**, Lin, Y., and Lin, X.<sup>*</sup> (2026+), A tail likelihood ratio method for large-scale causal mediation test in epigenome-wide studies. _Journal of the American Statistical Association: ACS_, in press.
 7. **Wang, R.**, and Wang, Q.<sup>*</sup> (2021), Determination and estimation of optimal quarantine duration for infectious diseases with application to data analysis of COVID-19. _Biometrics_, 78, 691--700.
 8. **Wang, R.**, Wang, Q.<sup>*</sup>, Miao, W., and Zhou, X. (2024), Sharp bounds for variance of treatment effect estimators in the finite population in the presence of covariates. _Statistica Sinica_, 34, 999--1021.
 9. Su, M. and **Wang, R.<sup>*</sup>** (2026), Subsampled one-step estimation for fast statistical inference. _Scandinavian Journal of Statistics_, 52, 2187--2208.
