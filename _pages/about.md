@@ -29,14 +29,14 @@ Education
 Representative Papers
 ======
 1. **Wang, R.**, Zhang, H., and Lin X.<sup>*</sup> (2026+), Debiased estimating equation method for versatile and efficient Mendelian randomization using a large number of correlated weak and invalid instruments. _Journal of the American Statistical Association: T&M (JASA T&M)_, in press. arXiv:2408.05386.
-2. **Wang, R.**, Wang Q.<sup>*</sup>, and Miao, W. (2023), A robust fusion-extraction procedure with summary statistics in the presence of biased sources. _Biometrika_, 110, 1023--1040.
-3. **Wang, R.**, Su, M., and Wang, Q.<sup>*</sup> (2023), Distributed nonparametric imputation for missing response problems with massive data. _Journal of Machine Learning Research (JMLR)_, 68, 1--52.
-4. Hu, W.<sup>1</sup>, **Wang, R.<sup>1</sup>**, Li, W.<sup>*</sup>, and Miao, W.<sup>*</sup> (2026+), Semiparametric efficient fusion of individual data and summary statistics. _Journal of the American Statistical Association: T&M (JASA T&M)_ , in press.
-5. Yang, H.<sup>1</sup>, **Wang, R.<sup>1</sup>**, Lin, Y., and Lin, X.<sup>*</sup> (2026+), A tail likelihood ratio method for large-scale causal mediation test in epigenome-wide studies. _Journal of the American Statistical Association: ACS (JASA ACS)_, in press.
-6. **Wang, R.<sup>1</sup>**, Yi, M.<sup>1</sup>, Chen, Z., and Zhu, S. (2022), Out-of-distribution generalization with causal invariant transformations. _IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 375--385.
-7. **Wang, R.** and Lin X.<sup>*</sup> (2026+), Divide-and-shrink: An efficient and heterogeneity-agnostic approach for transfer estimation using summary statistics. Revision invited by _Journal of the Royal Statistical Society: Series B_.
-8. Su, M., Wang Q., and **Wang, R.<sup>*</sup>** (2026+), A moment-assisted approach for improving subsampling-based MLE with large-scale data. Revision invited by _Journal of Machine Learning Research_. arXiv:2309.09872.
-9. **Wang, R.** and Miao, W.<sup>*</sup> (2026+), Causal Effect Identification and Inference with Endogenous Exposures and a Light-tailed Error. Under review. arXiv:2408.06211.
+2. Su, M.<sup>1</sup>, Wang Q.<sup>1</sup>, and **Wang, R.<sup>*</sup>** (2026+), A moment-assisted approach for improving subsampling-based MLE with large-scale data. Revision invited by _Journal of Machine Learning Research_. arXiv:2309.09872.
+3. **Wang, R.**, Wang Q.<sup>*</sup>, and Miao, W. (2023), A robust fusion-extraction procedure with summary statistics in the presence of biased sources. _Biometrika_, 110, 1023--1040.
+4. **Wang, R.**, Su, M., and Wang, Q.<sup>*</sup> (2023), Distributed nonparametric imputation for missing response problems with massive data. _Journal of Machine Learning Research (JMLR)_, 68, 1--52.
+5. Hu, W.<sup>1</sup>, **Wang, R.<sup>1</sup>**, Li, W.<sup>*</sup>, and Miao, W.<sup>*</sup> (2026+), Semiparametric efficient fusion of individual data and summary statistics. _Journal of the American Statistical Association: T&M (JASA T&M)_ , in press.
+6. Yang, H.<sup>1</sup>, **Wang, R.<sup>1</sup>**, Lin, Y., and Lin, X.<sup>*</sup> (2026+), A tail likelihood ratio method for large-scale causal mediation test in epigenome-wide studies. _Journal of the American Statistical Association: ACS (JASA ACS)_, in press.
+7. **Wang, R.<sup>1</sup>**, Yi, M.<sup>1</sup>, Chen, Z., and Zhu, S. (2022), Out-of-distribution generalization with causal invariant transformations. _IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 375--385.
+8. **Wang, R.** and Lin X.<sup>*</sup> (2026+), Divide-and-shrink: An efficient and heterogeneity-agnostic approach for transfer estimation using summary statistics. Revision invited by _Journal of the Royal Statistical Society: Series B_.
+9. **Wang, R.** and Miao, W.<sup>*</sup> (2026+), Causal Effect Identification and Inference with Endogenous Exposures and a Light-tailed Error. arXiv:2408.06211.
 
 
 <sup>1</sup> : equal contribution; <sup>*</sup> : corresponding author. A full list of publications can be found in the "Research" section in the upper-left corner of this website.
